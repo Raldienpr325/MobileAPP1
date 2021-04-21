@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470885306830",
+    "project_id": "fluter-fcm",
+    "storage_bucket": "fluter-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470885306830:android:557f0e1c62bae2c6f91b9f",
+        "android_client_info": {
+          "package_name": "com.example.praktikum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470885306830-fk9911eecad93c6m9suv088j54gdlprr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2369ZaLQ5xTla5HK6Ri8kb-d0COkR-IM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470885306830-fk9911eecad93c6m9suv088j54gdlprr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
